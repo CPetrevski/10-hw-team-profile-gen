@@ -30,3 +30,31 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
+
+## Demo
+
+<img src="./assets/img/demo.png"/>
+
+## Video Demo
+
+<a href="https://watch.screencastify.com/v/tTn5DG7AqmBz96oOObWf" target="_blank">Video Demonstration</a>
+
+## Installation
+
+Copy Repository to your local machine.
+
+Run the folling commands:
+
+```
+npm install
+
+node index
+```
+
+Enjoy!
+
+## Links
+
+<a href="https://github.com/CPetrevski/10-hw-team-profile-gen" target="_blank">Repository</a>
+
+<a href="https://watch.screencastify.com/v/tTn5DG7AqmBz96oOObWf" target="_blank">Video</a>
